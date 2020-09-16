@@ -1,0 +1,6 @@
+/home/hibiki/Projects/KalkulatorCc/KalkulatorCc/bin/Debug/KalkulatorCc.exe
+/home/hibiki/Projects/KalkulatorCc/KalkulatorCc/bin/Debug/KalkulatorCc.pdb
+/home/hibiki/Projects/KalkulatorCc/KalkulatorCc/obj/x86/Debug/KalkulatorCc.csprojAssemblyReference.cache
+/home/hibiki/Projects/KalkulatorCc/KalkulatorCc/obj/x86/Debug/KalkulatorCc.csproj.CoreCompileInputs.cache
+/home/hibiki/Projects/KalkulatorCc/KalkulatorCc/obj/x86/Debug/KalkulatorCc.exe
+/home/hibiki/Projects/KalkulatorCc/KalkulatorCc/obj/x86/Debug/KalkulatorCc.pdb
